@@ -49,6 +49,42 @@ la rama develop es la rama de desarrollo y constantemente y subiremos cambios a 
 comandos
 
 para inicializar repo - git init  
+para saber el estatus - git status
+para agregar archivos - git add
+para agregar todos los llos archivos - git add .
+para agregar archivos especificos - git add nombre_del_archivo
+para hacer commit - git commit -m "mensaje"
+para remover archivos - git rm --cached nombre_del_archivo
+para ver el historial - git log 
+para ver el historial - git log --oneline
+
+para configurar
+
+git config --global -l
+git config --global user.email "jose.angel2605@outlook.com"
+git config --global user.name "JoseAngelCh"
+
+git commit --> tecla i ---> "agregar comentario" ---> tecla Esc ---> escribir :wq ---> enter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
