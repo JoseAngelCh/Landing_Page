@@ -101,3 +101,4 @@ git commit --> tecla i ---> "agregar comentario" ---> tecla Esc ---> escribir :w
 
 
 
+
