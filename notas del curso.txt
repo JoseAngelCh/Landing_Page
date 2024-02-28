@@ -66,6 +66,15 @@ git config --global user.name "JoseAngelCh"
 
 git commit --> tecla i ---> "agregar comentario" ---> tecla Esc ---> escribir :wq ---> enter
 
+para ver el historial - git log --oneline
+para ver el historial en una linea - git log --oneline
+para crear una rama - git branch nombre_de_la_rama
+para cambiar de rama - git checkout nombre_de_la_rama
+para ver las ramas - git branch
+para eliminar una rama - git branch -D nombre_de_la_rama
+para cambiar entre ramas - git switch nombre_de_la_rama
+para fusionar ramas - git merge nombre_de_la_rama
+para ver los cambios - git diff
 
 
 
