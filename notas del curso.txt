@@ -76,6 +76,9 @@ para cambiar entre ramas - git switch nombre_de_la_rama
 para fusionar ramas - git merge nombre_de_la_rama
 para ver los cambios - git diff
 
+para agregar y hacer commit a la vez (add . y commit)
+git commit -am "mensaje"
+
 
 
 
