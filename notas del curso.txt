@@ -79,6 +79,8 @@ para ver los cambios - git diff
 para agregar y hacer commit a la vez (add . y commit)
 git commit -am "mensaje"
 
+para subir..
+
 
 
 
