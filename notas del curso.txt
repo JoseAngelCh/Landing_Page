@@ -84,6 +84,13 @@ git remote add origin https://github.com/JoseAngelCh/git-test.git
 git remote -v
 git push -u "origin" main
 
+header: parte superor de usa seccion.
+    nav: es una navegacion.
+main: contiene el contenido principal de la pagina.
+    aside: seccion lateral.
+    section: es una seccion, son maneras de dividir el contexto de la lectura, por lo general tiene titulo y parrafos.
+    article: es un articulo, es para un contenido fuera de contexto.
+footer: es pie de pagina.
 
 
 
