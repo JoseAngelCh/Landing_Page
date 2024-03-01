@@ -99,6 +99,18 @@ BODY: es la informacion visual de la pagina web, todo lo que se ve en el viewpor
 
 
 
+para fusionar las ramas primero cambiar la rama desactualizada y hacer el comando "git merge develop"
+
+en este caso hariamos "git switch main"
+una vez en main, "git merge develop" que es la que va adelantada y poner ambas al dia.
+
+
+'git fetch' para saber si hubo cambios desde otro lugar.
+
+'git pull origin develop' para traer los cambios de ese otro lugar y esten sincronizados.
+
+
+
 
 
 
