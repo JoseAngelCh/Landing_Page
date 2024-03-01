@@ -83,6 +83,7 @@ git commit -am "mensaje"
 git remote add origin https://github.com/JoseAngelCh/git-test.git
 git remote -v
 git push -u "origin" main
+git push -f (forzar el puch)
 
 header: parte superor de usa seccion.
     nav: es una navegacion.
@@ -91,6 +92,12 @@ main: contiene el contenido principal de la pagina.
     section: es una seccion, son maneras de dividir el contexto de la lectura, por lo general tiene titulo y parrafos.
     article: es un articulo, es para un contenido fuera de contexto.
 footer: es pie de pagina.
+
+HEAD: es la eqtiqueta que solo contiene metadatos, e informacion no visual.
+META: son los metadatos.
+BODY: es la informacion visual de la pagina web, todo lo que se ve en el viewport.
+
+
 
 
 
