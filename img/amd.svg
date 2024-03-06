@@ -1,1 +1,14 @@
-<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="m.334 0 4.358 4.359h7.15v7.15l4.358 4.358V0H.334ZM.2 9.72l4.487-4.488v6.281h6.28L6.48 16H.2V9.72Z"></path></svg>
+<svg width="140" height="34" viewBox="0 0 140 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_64_3)">
+<path d="M32.86 31.45H25.07L22.7 25.73H9.78L7.62 31.45H0L11.64 2.57001H19.98L32.86 31.45ZM15.97 9.45001L11.69 20.7H20.58L15.97 9.45001Z" fill="white"/>
+<path d="M60.9599 2.57001H67.2299V31.45H60.0299V13.45L52.2399 22.51H51.1399L43.3499 13.41V31.41H36.1499V2.57001H42.4199L51.6899 13.31L60.9599 2.57001Z" fill="white"/>
+<path d="M85.4702 2.57001C96.0102 2.57001 101.47 9.13001 101.47 17.05C101.47 25.35 96.2202 31.45 84.7002 31.45H72.7202V2.57001H85.4702ZM79.9202 26.16H84.6202C91.8602 26.16 94.0202 21.25 94.0202 17.01C94.0202 12.01 91.3502 7.86001 84.5402 7.86001H79.9202V26.16Z" fill="white"/>
+<path d="M130.64 9.42003H115.75L106.68 0.340027H139.72V33.39L130.64 24.31V9.42003Z" fill="white"/>
+<path d="M115.74 24.3201V11.2401L106.4 20.5801V33.6701H119.48L128.82 24.3201H115.74Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_64_3">
+<rect width="139.72" height="33.32" fill="white" transform="translate(0 0.340027)"/>
+</clipPath>
+</defs>
+</svg>

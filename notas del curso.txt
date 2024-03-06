@@ -110,6 +110,11 @@ una vez en main, "git merge develop" que es la que va adelantada y poner ambas a
 'git pull origin develop' para traer los cambios de ese otro lugar y esten sincronizados.
 
 
+norma de seo 
+
+no deben existir mas de un H1 en cada HTML 
+
+
 
 
 
