@@ -138,6 +138,9 @@ color: - color de letras
 font-size: - tamaño de letras
 font-family: - estilo de letras
 font-weight: - grosor de las letras - (deberia ser de 400)
+test-decpration: - modificar decoracion del texto
+list-style: - estilo de lista modificar
+
 
 
 --------------------------------------------------------------------------
@@ -161,8 +164,30 @@ Referencia de Viewport - vw vh
 
 generalmente se usa las medidas em y rem para texto.
 usar REM (recomendacion)
+cuando trabaje con elementos que no sean texto, hare el uso de medidas Responsivas (%, vh, hw)
 ------------------------------------------------------------------------------
 
+BOX MODEL y ESPACIADO DE CAJA
+la parte mas centrica de una caja es su contenido.
+
+el padding es el espacio que existe entre el contenido de la caja y su borde, es decir que el paddine forma parte del contenido de la caja.
+
+el borde es la orilla de la caja.
+
+el margin es el espacio que hay entre el borde de la caja y sus elementos, es decir que el margin empuja a los elementos hermanos.
+
+la procpiedas mas importante
+box-sizing: border-box; - esto se aplica en el selector universal
+
+propiedad backgrounds
+  background-color: - color de fondo
+  background-image: linear-gradient() - gradiente lineal de fondo
+  background-image: radial-gradient() - gradicente radial de fondo
+  background-image: url() - imagen de fondo
+  background-size: - tamaño de fondo
+  background-repeat: no-repeat - repetir imagen, no repetir
+  
+ 
 
 
 
