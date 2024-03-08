@@ -114,9 +114,54 @@ no deben existir mas de un H1 en cada HTML
 actualizar rama: 
 
 
+CSS
+
+* - selector universal - (selector menos especifico) - aqui debemos setear todos los estilos, aqui eliminamos los estilos que trae el navegador por defecto. 
+
+# - selector de id - (selector mas especifico) 
+
+. - selector de clase 
+
+siempre vamos desde menos especificos a mas especificos
+---------------------------------------------------------------------
+sintaxis:
+
+* {
+
+}
+
+* (selector)
+{ } -> agrupa las propiedades que usara el selector.
+----------------------------------------------------------------------
+
+color: - color de letras
+font-size: - tamaño de letras
+font-family: - estilo de letras
+font-weight: - grosor de las letras - (deberia ser de 400)
 
 
+--------------------------------------------------------------------------
+Medidas utiliadas:
 
+Medidas fijas:
+
+pixeles -               px
+puntos -                pt
+
+EM -                    em          = igual a 16px
+REM -                   rem         = igual a 16px
+
+
+Medidas Responsivas:
+
+Porcentajes -            %
+Referencia de Viewport - vw vh
+
+-----------------------------------------------------------------------------
+
+generalmente se usa las medidas em y rem para texto.
+usar REM (recomendacion)
+------------------------------------------------------------------------------
 
 
 
