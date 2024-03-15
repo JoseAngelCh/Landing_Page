@@ -186,8 +186,58 @@ propiedad backgrounds
   background-image: url() - imagen de fondo
   background-size: - tamaño de fondo
   background-repeat: no-repeat - repetir imagen, no repetir
-  
- 
+
+
+cuando creamos scrips que manipulen el 'DOM' los importamos al final del body.
+
+tipos de datos JS
+
+string: cadena de texto, se define como un conjunto de caracteres y para definirlos haremos uso de comillas doble, comillas simples o backtick.
+
+number: es un valor numerico, nos permiten guardar numeros enteros o decimales, se escribe el numero sin comillas.
+
+boolean: tipo de dato booleano, es un tipo de dato primitivo que solo tiene 2 valores verdadero y falso. (true) - (false)
+
+el nuemro 0 funsiona como un false
+el numero 1 funsiona como un true
+
+array: es una lista de datos ordenados en memoria uno detras de otro a los cuales se les asigna un indice, cuyo primer incide es el 0
+el ultimo indice de todo array es -1
+
+objet: un objeto es un tipo de dato complejo, que me permite almacenar datos por medio de clave y valor. 
+
+undefined: es un tipo de dato indefinido que espera obtener un valor, por lo general este dato lo obtenemos cuando algo sale mal.
+
+null: es un tipo de dato vacio y esta vacio intencionalmente.
+
+Operadores JS
+
+/**
+ * 
+ * +    suma
+ * -    resta
+ * *    multiplica
+ * /    divide
+ * %    resto
+ * 
+ * 
+ * ==   esto es igual a
+ * ===  esto es exactamente igual a
+ * !=   esto es diferente
+ * !==  esto es exactamente diferente
+ * 
+ * &&   and
+ * 
+ * ||   or
+ * 
+ * 
+ * >    mayor que 
+ * <    menor que
+ * 
+ * >=   mayor o igual que
+ * <=   Menor o igual que
+ * 
+ */
 
 
 
