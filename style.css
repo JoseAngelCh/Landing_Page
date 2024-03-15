@@ -9,7 +9,7 @@
     padding: 0;
     outline: none;
     color: #f2f2f2;
- }
+}
 
 
 .navbar {
@@ -42,13 +42,13 @@
   font-weight: bold;
   padding: 11px 22px;
   border-radius: 10px;
-  background-color: #59268C;
+  background-color: #59268ccc;
   transition: all .3s ease-in;
   border: none;
 }
 
 .button:hover {
-  background-color: #9a5ed6;
+  background-color: #9a5ed6c0;
   color: #2e2e2e;
 }
 
@@ -72,6 +72,75 @@
   justify-content: space-between;
   gap: 300px;
 }
+
+
+#jumbotrom {
+  width: 100%;
+  height: 650px;
+  background-image: url(/img/Jumbotrom.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotrom__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 650px;
+  font-size: 64px;
+  gap: 30px;
+}
+
+.button__v2 {
+  font-weight: bold;
+  padding: 20px 40px;
+  border-radius: 10px;
+  background-color: transparent;
+  transition: all .3s ease-in;
+  border: 1px solid #f2f2f2;
+}
+
+.button__v2:hover {
+  background-color: #59268ccc;
+}
+
+.main__jumbotrom__title {
+  width: 804px;
+  height: 162px;
+  font-size: 64px;
+  text-align: center;
+}
+.title__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #2e2e2e;
+}
+
+h2 {
+  font-size: 32px;
+  text-align: center;
+
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
 
 
 
